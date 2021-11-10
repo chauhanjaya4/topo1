@@ -1,0 +1,5 @@
+E:\sanjeevan\kttc\kttc\bin\kttc.dll
+E:\sanjeevan\kttc\kttc\bin\kttc.pdb
+E:\sanjeevan\kttc\kttc\obj\Debug\ResolveAssemblyReference.cache
+E:\sanjeevan\kttc\kttc\obj\Debug\kttc.dll
+E:\sanjeevan\kttc\kttc\obj\Debug\kttc.pdb

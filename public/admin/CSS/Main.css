@@ -1,0 +1,51 @@
+﻿body
+{
+	margin: 0;
+	
+}
+.ban
+{
+	font-family: Arial;
+	font-size: 11px;
+	color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url( '../images/banner.jpg' );
+}
+
+.vrs{
+font-family: Arial;
+	font-size:18px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	line-height: 15px;
+}
+.main_txt{
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+
+}
+
+.txtxt{
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 22px;
+	font-weight: normal;
+	color: #333333;
+	text-align:justify;
+}
+
+
+.welcomwe{
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	line-height: 15px;
+}
+

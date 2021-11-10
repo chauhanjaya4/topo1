@@ -1,0 +1,19 @@
+﻿#Div4 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, .6);
+    z-index: 100001;
+    overflow: scroll;    
+}
+#popup1 {
+    float: none;
+    position: relative;
+    width: 374px;
+    height: 469px;
+    padding: 15px 29px;
+
+   background: -webkit-linear-gradient(bottom right, #f4286d,#ccc62e, #ff007d);
+}
